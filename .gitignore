@@ -25,3 +25,4 @@ dist-ssr
 
 # Python virtualenv
 venv
+db.sqlite3

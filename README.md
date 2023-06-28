@@ -9,7 +9,8 @@
 *NOTA:* Se recomienda trabajar una consola para el frontend y otra para el backend
 
 ### Frontend
-Instala las dependencias con pnpm
+Entre a la carpeta *client* desde la consola e
+instale las dependencias con pnpm
    
 ```bash
 pnpm install
